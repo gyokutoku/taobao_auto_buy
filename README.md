@@ -24,11 +24,11 @@ git@github.com:Jesseslco/taobao_auto_buy.git
 Or
 `pip3 install -r requirements.txt`
 
-4. 下载chrome(版本79或者最新) chromedriver(需要匹配chrome版本)
+4. 下载chrome(版本80或者最新) chromedriver(需要匹配chrome版本)
 
-   内置chrome79的chromedriver, 如果你的chrome是79, 无需手动下载chromedriver
+   内置chrome80的chromedriver, 如果你的chrome是80, 无需手动下载chromedriver
    
-   版本不是79的, 需要手动下载对应版本的chromedriver, 下载的chromedriver需要按照以下方式命名, 并把命名后的文件放入drivers/
+   版本不是80的, 需要手动下载对应版本的chromedriver, 下载的chromedriver需要按照以下方式命名, 并把命名后的文件放入drivers/
      > Windows
      
        chromedriver_win.exe    
